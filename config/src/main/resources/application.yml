@@ -12,7 +12,7 @@ spring:
   config:
    server:
     git:
-     uri: https://github.com/juandavidgrisales/netflixoss/cloudConfig
+     uri: https://github.com/juandavidgrisales/netflixoss
 
  # Spring properties
  profiles:
