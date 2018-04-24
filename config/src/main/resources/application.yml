@@ -13,6 +13,7 @@ spring:
    server:
     git:
      uri: https://github.com/juandavidgrisales/netflixoss
+     search-paths: global
 
  # Spring properties
  profiles:
