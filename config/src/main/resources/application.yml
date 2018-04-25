@@ -18,3 +18,7 @@ spring:
  # Spring properties
  profiles:
   active: dev
+
+management:
+  security:
+    enabled: false

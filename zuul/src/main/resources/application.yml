@@ -36,3 +36,8 @@ eureka:
 ribbon:
  eureka:
   enabled: true
+
+
+management:
+  security:
+    enabled: false
